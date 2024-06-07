@@ -1,1 +1,7 @@
-This is the Test-Build 0009 of the CBuilder. the planned build name: Map and Performance update. planned release: 1.0.0.0010. 
+This is the Test-Build 0009 of the CBuilder. the planned build name: Map and Performance update. planned release: 1.0.0.0011.
+the planned changes and bug-fixes of the build 0009: 
+1) making a completely new map with different locations and updated textures(including pixel-art);
+the planned changes and bug-fixes of the build 0010:
+1) Making a performance update. the new update takes most effect on low end PCs, and is reducing the time it takes to draw and update objects. current object draw time: around 5 to 7 milliseconds. the new planned object draw time: 5-4 milliseconds. the speed is good for now, but we are implementing this now, because later the draw time is gonna incerease, which can cause some lag. the maximum draw speed for laggless play: 20 miliseconds.
+2) doing a 15min. bug test and trying to fix bugs and improve the gameplay. these are the bugs that are currently found:
+  There are no bugs and improvements found. the identificators for the bugs: B-0000-F. the B- means that its a bug. the 0000 is the identificator of the bug. the -F means that the bug is fixed, the -N means not fixed. the       identificators for gameplay-improvements: G-0000-F the -G means Gameplay improvement, the others are the same as the previous example.
